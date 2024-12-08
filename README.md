@@ -18,4 +18,11 @@
 ###### Developed Add Book form with backend integration to store data
 ###### Built a dynamic table to display book details with options to edit and delete
 ###### Refined UI with custom styles for a cleaner and more intuitive interface
+###### Added Update Confirmation
+###### Implemented Dropbox for Update Button
+###### Integrated Category Management
+###### Implemented Pagination
+###### Added Delete Confirmation
+###### Improved Database Model
+###### Optimized Backend Performance
 ###### Updated README with setup instructions and project details
